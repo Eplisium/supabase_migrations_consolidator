@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Sync Supa Migrations
+Supabase Migrations Consolidator
 
 A tool to consolidate Supabase migrations into a single file with options to
 backup and delete past migrations, and rename to an init migration.
